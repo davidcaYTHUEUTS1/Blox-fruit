@@ -4227,6 +4227,7 @@ spawn(
 )
 
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/1st-Mars/Misc/main/O")))()
+local Window = OrionLib:MakeWindow({Name = "Edwarde Newgate hub  ", HidePremium = false, IntroText = "Edwarde Newgate hub", IntroEnabled = true, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local ScreenGui = Instance.new("ScreenGui")
 local ImageButton = Instance.new("ImageButton")
