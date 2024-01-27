@@ -12,7 +12,7 @@ Logo.Position = UDim2.new(0.243, 0,0.15, 0)
 Logo.Size = UDim2.new(0, 905,0, 549)
 Logo.Image = LogoImage
 Logo.ImageTransparency = 0.8
-Logo.Image = "rbxassetid://15833214876"
+Logo.Image = "https://www.roblox.com/asset/?id=15833214876"
 
 
 highChestOnly = true
